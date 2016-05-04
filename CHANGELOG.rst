@@ -2,6 +2,12 @@
 Changelog for package fzi_icl_core
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.4 (2016-05-04)
+------------------
+* use cmake as buildtool_depend and install package.xml
+* Add catkin as run_depend
+* Contributors: Felix Mauch
+
 1.0.3 (2016-05-03)
 ------------------
 * export Boost as runtime dependency
