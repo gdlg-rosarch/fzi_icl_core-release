@@ -1,3 +1,26 @@
+## fzi_icl_core (kinetic) - 1.0.4-0
+
+The packages in the `fzi_icl_core` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release fzi_icl_core --track kinetic --rosdistro kinetic --edit` on `Tue, 17 May 2016 11:48:01 -0000`
+
+The `fzi_icl_core` package was released.
+
+Version of package(s) in repository `fzi_icl_core`:
+
+- upstream repository: https://github.com/fzi-forschungszentrum-informatik/fzi_icl_core
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.4-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## fzi_icl_core (indigo) - 1.0.4-0
 
 The packages in the `fzi_icl_core` repository were released into the `indigo` distro by running `/usr/bin/bloom-release fzi_icl_core --track indigo --rosdistro indigo` on `Wed, 04 May 2016 11:55:49 -0000`
