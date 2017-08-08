@@ -1,3 +1,26 @@
+## fzi_icl_core (jade) - 1.0.6-0
+
+The packages in the `fzi_icl_core` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade fzi_icl_core` on `Tue, 08 Aug 2017 06:36:40 -0000`
+
+The `fzi_icl_core` package was released.
+
+Version of package(s) in repository `fzi_icl_core`:
+
+- upstream repository: https://github.com/fzi-forschungszentrum-informatik/fzi_icl_core
+- release repository: https://github.com/fzi-forschungszentrum-informatik/fzi_icl_core-release.git
+- rosdistro version: `1.0.4-1`
+- old version: `1.0.4-1`
+- new version: `1.0.6-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.5`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## fzi_icl_core (indigo) - 1.0.6-0
 
 The packages in the `fzi_icl_core` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo fzi_icl_core` on `Mon, 07 Aug 2017 20:10:05 -0000`
